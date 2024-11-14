@@ -4,6 +4,7 @@ Image Processing in the Conservation of Historic Urban Areas: The Case of Dujian
 
 In this paper, there are two publicly available datasets used, Cityscapes and WHU building datasets respectively.
 Their download links are as follows:
+
 Cityscapes: https://www.cityscapes-dataset.com/
 
 WHU building datasets: http://gpcv.whu.edu.cn/data/building_dataset.html
